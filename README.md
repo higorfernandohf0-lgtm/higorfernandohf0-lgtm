@@ -4,10 +4,11 @@ Data Analyst transitioning into Web3.
 
 ## Focus
 
-• Web3 Communities  
-• Blockchain Protocols  
-• Community Moderation  
-• Web3 Research
+• Smart Contract Development (Solidity)
+• Web3 Protocols & Blockchain Systems
+• Smart Contract Testing (Truffle / Hardhat)
+• Web3 Communities & Ecosystems
+• Research & On-chain Analysis
 
 ## Skills
 
