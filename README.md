@@ -12,10 +12,13 @@ Data Analyst transitioning into Web3.
 
 ## Skills
 
-Python  
-SQL  
-Data Analysis  
-Blockchain Fundamentals
+• Solidity (Smart Contracts)
+• Smart Contract Testing (Truffle)
+• JavaScript / Node.js (Web3 tooling)
+• Python
+• SQL
+• Data Analysis
+• Blockchain Fundamentals
 
 ## Current Goal
 
