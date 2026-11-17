@@ -1,10 +1,10 @@
 # Hi, I'm Higor 👋
 
-### On-Chain Data & Blockchain Risk Analyst
+### Smart Contract Dev & On-Chain Risk Analyst
 
-Python · SQL · Solidity · Dune Analytics · Foundry
+Solidity · Foundry · Python · SQL · DeFi
 
-I build public Web3 projects focused on blockchain intelligence, on-chain analytics, risk analysis and smart contract development.
+I build secure DeFi infrastructure and analyze on-chain data to identify risks and understand protocol behavior.
 
 ---
 
@@ -28,19 +28,19 @@ An upgradeable DeFi Vault (ERC-4626) integrated with Aave V3, Chainlink Oracle G
 ---
 
 ## 🔎 Focus
+- Smart Contract Development & Testing
+- DeFi Risk Analysis
 - Blockchain Intelligence & On-Chain Analytics
 - Crypto Risk & Fraud Analytics
-- DeFi Risk Analysis
-- Smart Contract Development & Testing
 - Stablecoin & Protocol Research
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data & Analytics:** Python · SQL · Pandas · Matplotlib · Power BI  
-**Blockchain & Research:** Dune Analytics · Etherscan API · DeFiLlama · Ethereum · Arbitrum  
-**Smart Contracts:** Solidity · Foundry · Forge · OpenZeppelin · Aave V3 · Chainlink
+**Smart Contracts:** Solidity · Foundry · Forge · OpenZeppelin · Aave V3 · Chainlink  
+**Data & Analytics:** Python · SQL · Pandas · Dune Analytics · Etherscan API  
+**Blockchain & Research:** Ethereum · Arbitrum · DeFiLlama
 
 ---
 
@@ -73,11 +73,10 @@ Risk analysis framework for evaluating DeFi protocols using public blockchain an
 ## 🎯 Current Goal
 
 Seeking opportunities in:
-- Blockchain Intelligence
+- Smart Contract Development / QA
 - On-Chain / Blockchain Data Analytics
 - Crypto Risk & Fraud Analysis
 - Web3 Research
-- Smart Contract Development / QA
 
 ---
 
